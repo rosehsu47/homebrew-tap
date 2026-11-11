@@ -1,5 +1,5 @@
 class FolderTidy < Formula
-  desc "Organize a messy Mac folder into category folders by rules, with preview and undo"
+  desc "Sort a messy Mac folder into category folders by rules, with preview and undo"
   homepage "https://github.com/rosehsu47/folder-tidy"
   url "https://github.com/rosehsu47/folder-tidy/releases/download/v0.1.0/folder-tidy-0.1.0-macos-universal.tar.gz"
   version "0.1.0"
